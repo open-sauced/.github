@@ -28,7 +28,7 @@
 
 <!-- Please do not leave this blank -->
 
-This PR [adds/removes/fixes/replaces] this [feature/bug/etc]. 
+This PR [adds/removes/fixes/replaces] the [feature/bug/etc]. 
 
 ## Related Tickets & Documents
 <!-- 
