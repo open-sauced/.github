@@ -16,13 +16,17 @@
 
 ## What type of PR is this? (check all applicable)
 
-- [ ] ♻️ Refactor
-- [ ] ✨ Feature
+- [ ] 🍕 Feature
 - [ ] 🐛 Bug Fix
-- [ ] 👷 Optimization
 - [ ] 📝 Documentation Update
-- [ ] 🔖 Release
-- [ ] 🚩 Other
+- [ ] 🎨 Style
+- [ ] 🧑‍💻 Code Refactor
+- [ ] 🔥 Performance Improvements
+- [ ] ✅ Test
+- [ ] 🤖 Build
+- [ ] 🔁 CI
+- [ ] 📦 Chore (Release)
+- [ ] ⏩ Revert
 
 ## Description
 
@@ -49,9 +53,9 @@ https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-git
 
 ## Added to documentation?
 
-- [ ] 📜 readme
-- [ ] 📜 contributing.md
-- [ ] 📓 docs
+- [ ] 📜 README.md
+- [ ] 📓 docs.opensauced.pizza
+- [ ] 🍕 dev.to/opensauced
 - [ ] 📕 storybook
 - [ ] 🙅 no documentation needed
 

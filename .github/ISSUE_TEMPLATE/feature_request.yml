@@ -13,17 +13,17 @@ body:
       label: Type of feature
       description: Select the type of feature request, the lowercase should also be the PR prefix.
       options:
-        - "Feature"
-        - "Fix"
-        - "Documentation"
-        - "Style"
-        - "Refactor"
-        - "Performance"
-        - "Test"
-        - "Build"
-        - "CI"
-        - "Chore"
-        - "Revert"
+        - "🍕 Feature"
+        - "🐛 Fix"
+        - "📝 Documentation"
+        - "🎨 Style"
+        - "🧑‍💻 Refactor"
+        - "🔥 Performance"
+        - "✅ Test"
+        - "🤖 Build"
+        - "🔁 CI"
+        - "📦 Chore"
+        - "⏩ Revert"
     validations:
       required: true
   - type: textarea
@@ -34,10 +34,8 @@ body:
       required: true
   - type: textarea
     attributes:
-      label: Desired solution
+      label: Suggested solution
       description: Describe the solution you'd like.
-    validations:
-      required: true
   - type: input
     id: context
     attributes:

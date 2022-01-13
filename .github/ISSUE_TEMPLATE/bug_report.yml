@@ -31,6 +31,8 @@ body:
       description: Select the platforms where the issue can be reproduced (that you know of).
       options:
         - "opensauced.pizza"
+        - "hot.opensauced.pizza"
+        - "api.opensauced.pizza"
         - "admin.opensauced.pizza"
         - "docs.opensauced.pizza"
         - "explore.opensauced.pizza"
@@ -51,8 +53,6 @@ body:
         - "Tablet"
         - "TV"
         - "VR"
-    validations:
-      required: true
   - type: dropdown
     attributes:
       multiple: true
@@ -74,8 +74,6 @@ body:
         - "Production"
         - "Development"
         - "Testing"
-    validations:
-      required: true
   - type: input
     id: context
     attributes:
