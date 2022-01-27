@@ -49,3 +49,11 @@ body:
       options:
         - label: I agree to follow this project's Code of Conduct
           required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Contributing Guide
+      description: Please Ready Our Contribution Guide Here [Contribution Guide](https://docs.opensauced.pizza/contributing/introduction-to-contributing/)
+      options:
+        - label: I agree to follow this project's Contribution Guide
+          required: false
