@@ -52,8 +52,8 @@ body:
   - type: checkboxes
     id: contribution
     attributes:
-      label: Contributing Guide
-      description: Please Ready Our Contribution Guide Here [Contribution Guide](https://docs.opensauced.pizza/contributing/introduction-to-contributing/)
+      label: Contributing Docs
+      description: If you plan on contributing code please read: [Contribution Guide](https://docs.opensauced.pizza/contributing/introduction-to-contributing/)
       options:
-        - label: I agree to follow this project's Contribution Guide
+        - label: I agree to follow this project's Contribution Docs
           required: false
