@@ -91,7 +91,7 @@ body:
     id: contribution
     attributes:
       label: Contributing Docs
-      description: If you plan on contributing code please read: [Contribution Guide](https://docs.opensauced.pizza/contributing/introduction-to-contributing/)
+      description: If you plan on contributing code please read - [Contribution Guide](https://docs.opensauced.pizza/contributing/introduction-to-contributing/)
       options:
         - label: I agree to follow this project's Contribution Docs
           required: false
