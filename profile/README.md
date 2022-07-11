@@ -5,4 +5,5 @@ Open Sauced provides guidance for new contributors finding their next contributi
 Links:
 - [Watched the intro to Open Sauced on YouTube](https://www.youtube.com/watch?v=CKbTdYZAvSM&list=PLHyZ0Wz_A44XSYlBAfO2nBqoYaJJ5fdu5)
 - [opensauced.pizza](https://opensauced.pizza)
+- [hot.opensauced.pizza](https://hot.opensauced.pizza)
 - [docs.opensauced.pizza](https://docs.opensauced.pizza)
