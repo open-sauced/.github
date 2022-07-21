@@ -33,6 +33,12 @@ There are a few cases where members can be removed as triagers:
 
 If any of these happen we will discuss as a part of the triage portion of the regular TC meetings. If you have questions feel free to reach out to any of the TC members.
 
+## Reviewing Pull Requests
+- Checkout out preview or staging URLs on your device. If there are visual changes, check on multiple browsers
+- If reviewing code, avoid linting. Instead request the contributor run `npm run format`
+- Avoid condescending questions, i.e "Why didn't you did this?" Instead "Can you explain how does this works?"
+- Always leave positive feedback and celebrate work completed. 
+ 
 ## Other Helpful Hints:
 
 - When reviewing the list of open issues there are some common types and suggested actions:
