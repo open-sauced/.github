@@ -68,5 +68,5 @@ https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-git
 
 
 
-<!-- note: PRs with deletes sections will be marked invalid -->
+<!-- note: PRs with deleted sections will be marked invalid -->
 
