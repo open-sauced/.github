@@ -1,4 +1,4 @@
-![open-sauced-logo](https://user-images.githubusercontent.com/5713670/183260797-c905a89a-b4b3-4797-b9a0-05e21dd1edab.png)
+![open-sauced-logo](https://user-images.githubusercontent.com/5713670/183260824-5b8611c8-1284-4477-b609-59bf28522bd5.png)
 
 Open Sauced provides guidance for new contributors finding their next contribution. Our approach towards onboarding offers a way to track contributions through a GitHub powered dashboard.
 
