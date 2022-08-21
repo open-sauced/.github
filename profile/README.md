@@ -7,3 +7,4 @@ Links:
 - [opensauced.pizza](https://opensauced.pizza)
 - [hot.opensauced.pizza](https://hot.opensauced.pizza)
 - [docs.opensauced.pizza](https://docs.opensauced.pizza)
+- [api.opensauced.pizza](https://api.opensauced.pizza)
