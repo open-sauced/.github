@@ -5,6 +5,7 @@ The open source intelligence platform for developers and maintainers. Unlock the
 Links:
 - [Watched the intro to Open Sauced on YouTube](https://www.youtube.com/watch?v=CKbTdYZAvSM&list=PLHyZ0Wz_A44XSYlBAfO2nBqoYaJJ5fdu5)
 - [opensauced.pizza](https://opensauced.pizza)
+- [insights.opensauced.pizza](https://insights.opensauced.pizza)
 - [hot.opensauced.pizza](https://hot.opensauced.pizza)
 - [docs.opensauced.pizza](https://docs.opensauced.pizza)
 - [api.opensauced.pizza](https://api.opensauced.pizza)
