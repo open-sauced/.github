@@ -31,6 +31,7 @@ body:
       description: Select the platforms where the issue can be reproduced (that you know of).
       options:
         - "opensauced.pizza"
+        - "insights.opensauced.pizza"
         - "hot.opensauced.pizza"
         - "api.opensauced.pizza"
         - "admin.opensauced.pizza"
