@@ -34,11 +34,9 @@ body:
         - "insights.opensauced.pizza"
         - "hot.opensauced.pizza"
         - "api.opensauced.pizza"
-        - "admin.opensauced.pizza"
         - "docs.opensauced.pizza"
-        - "explore.opensauced.pizza"
         - "semantic-release-conventional-config"
-        - "pizzaface"
+        - "browser-extension"
         - "slaybot"
         - "beybot"
     validations:
