@@ -27,34 +27,6 @@ body:
   - type: dropdown
     attributes:
       multiple: true
-      label: Affected services
-      description: Select the platforms where the issue can be reproduced (that you know of).
-      options:
-        - "opensauced.pizza"
-        - "insights.opensauced.pizza"
-        - "hot.opensauced.pizza"
-        - "api.opensauced.pizza"
-        - "docs.opensauced.pizza"
-        - "semantic-release-conventional-config"
-        - "browser-extension"
-        - "slaybot"
-        - "beybot"
-    validations:
-      required: true
-  - type: dropdown
-    attributes:
-      multiple: true
-      label: Platforms
-      description: Select the platforms where the issue can be reproduced (that you know of).
-      options:
-        - "Desktop"
-        - "Mobile"
-        - "Tablet"
-        - "TV"
-        - "VR"
-  - type: dropdown
-    attributes:
-      multiple: true
       label: Browsers
       description: Select the browsers where the issue can be reproduced (that you know of).
       options:
@@ -64,19 +36,10 @@ body:
         - "Edge"
         - "Opera"
         - "Other (add additional context)"
-  - type: dropdown
-    attributes:
-      multiple: true
-      label: Environment
-      description: Select the browsers where the issue can be reproduced (that you know of).
-      options:
-        - "Production"
-        - "Development"
-        - "Testing"
   - type: input
     id: context
     attributes:
-      label: Additional context
+      label: Additional context (Is this in dev or production?)
       description: Add any other context about the problem or helpful links here.
   - type: checkboxes
     id: terms
