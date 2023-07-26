@@ -87,11 +87,6 @@ Open Sauced is a part of GitHub Sponsors. If you would like to contribute, pleas
 
 Do you have questions? Join the conversation in our [Discord](https://discord.gg/U2peSNf23P).
 
-## Coding Tips
-- Ask questions if you are stuck.
-- Use [CSS variables](https://github.com/open-sauced/open-sauced/blob/HEAD/src/styles/variables.js)
-- Always use [rel="noreferrer" on all target="_blank" links](https://web.dev/external-anchors-use-rel-noopener/).
-
 ## License
 
 By contributing to the Open Sauced project, you agree that your contributions will be licensed
