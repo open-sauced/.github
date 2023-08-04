@@ -29,6 +29,10 @@ https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-git
 
 <!-- Visual changes require screenshots -->
 
+## QA Test Steps
+
+<!-- The steps to test this PR, keep in mind to think about anything need to change in the code to test it -->
+
 
 ## Added tests?
 
