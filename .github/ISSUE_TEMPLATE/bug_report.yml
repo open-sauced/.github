@@ -1,7 +1,7 @@
 name: 🐛 Bug report
 description: Create a bug report to help us improve Open Sauced 🍕
 title: "Bug: "
-labels: [👀 needs triage, 🐛 bug]
+labels: [🐛 bug]
 body:
   - type: markdown
     attributes:
