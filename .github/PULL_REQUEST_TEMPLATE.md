@@ -43,7 +43,16 @@ https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-git
 - [ ] 🍕 dev.to/opensauced
 - [ ] 📕 storybook
 - [ ] 🙅 no documentation needed
-
+  
+## What language did you use to complete your contribution?
+<!-- note: this section is reserved for non-English-speaking Guestbook contributors  -->
+- [ ] Spanish
+- [ ] French
+- [ ] Hindi
+- [ ] Arabic
+- [ ] Chinese
+- [ ] Korean
+- [ ] Polish 
 ## [optional] Are there any post-deployment tasks we need to perform?
 
 
