@@ -34,7 +34,7 @@ body:
       label: Do you have any images or screen captures?
       description: A clear image showing the bad behavior would be awesome, if not available write N/A
     validations:
-      required: true
+      required: false
   - type: dropdown
     attributes:
       multiple: true
