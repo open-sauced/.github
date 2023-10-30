@@ -31,7 +31,7 @@ body:
         This will help us to get a better understanding of the issue.
   - type: textarea
     attributes:
-      label: Do you have any images and screen captures? 
+      label: Do you have any images or screen captures?
       description: A clear image showing the bad behavior would be awesome, if not available write N/A
     validations:
       required: true
