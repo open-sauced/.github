@@ -30,11 +30,15 @@ https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-git
 <!-- Visual changes require screenshots -->
 
 
-## Added tests?
+## Steps to QA
+<!-- 
+Please provide some steps for the reviewer to test your change. If you have wrote tests, you can mention that here instead.
 
-- [ ] 👍 yes
-- [ ] 🙅 no, because they aren't needed
-- [ ] 🙋 no, because I need help
+1. Click a link
+2. Do this thing
+3. Validate you see the thing working
+-->
+
 
 ## Added to documentation?
 
