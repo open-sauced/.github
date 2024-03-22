@@ -24,6 +24,17 @@ body:
         4. See error
     validations:
       required: true
+ - type: markdown
+    attributes:
+      value: |
+        # An image might be worth 100 words! a video would be worth tons!
+        This will help us to get a better understanding of the issue.
+  - type: textarea
+    attributes:
+      label: Do you have any images or screen captures?
+      description: A clear image showing the bad behavior would be awesome, if not available write N/A
+    validations:
+      required: false
   - type: dropdown
     attributes:
       multiple: true
