@@ -1,5 +1,5 @@
 name: 🐛 Bug report
-description: Create a bug report to help us improve Open Sauced 🍕
+description: Create a bug report to help us improve OpenSauced 🍕
 title: "Bug: "
 labels: [👀 needs triage, 🐛 bug]
 body:
@@ -24,7 +24,7 @@ body:
         4. See error
     validations:
       required: true
- - type: markdown
+  - type: markdown
     attributes:
       value: |
         # An image might be worth 100 words! a video would be worth tons!
