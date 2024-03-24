@@ -24,7 +24,7 @@ body:
         4. See error
     validations:
       required: true
- - type: markdown
+  - type: markdown
     attributes:
       value: |
         # An image might be worth 100 words! a video would be worth tons!
