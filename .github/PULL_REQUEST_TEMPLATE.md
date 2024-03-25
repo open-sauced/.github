@@ -40,13 +40,12 @@ Please provide some steps for the reviewer to test your change. If you have wrot
 -->
 
 
-## Added to documentation?
+## Tier (staff will fill in)
 
-- [ ] 📜 README.md
-- [ ] 📓 docs.opensauced.pizza
-- [ ] 🍕 dev.to/opensauced
-- [ ] 📕 storybook
-- [ ] 🙅 no documentation needed
+- [ ] Tier 1
+- [ ] Tier 2
+- [ ] Tier 3
+- [ ] Tier 4
 
 ## [optional] Are there any post-deployment tasks we need to perform?
 
