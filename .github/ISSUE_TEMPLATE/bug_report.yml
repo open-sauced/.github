@@ -24,30 +24,3 @@ body:
         4. See error
     validations:
       required: true
-  - type: markdown
-    attributes:
-      value: |
-        # An image might be worth 100 words! a video would be worth tons!
-        This will help us to get a better understanding of the issue.
-  - type: textarea
-    attributes:
-      label: Do you have any images or screen captures?
-      description: A clear image showing the bad behavior would be awesome, if not available write N/A
-    validations:
-      required: false
-  - type: checkboxes
-    id: terms
-    attributes:
-      label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://docs.opensauced.pizza/contributing/code-of-conduct/)
-      options:
-        - label: I agree to follow this project's Code of Conduct
-          required: true
-  - type: checkboxes
-    id: contribution
-    attributes:
-      label: Contributing Docs
-      description: If you plan on contributing code please read - [Contribution Guide](https://docs.opensauced.pizza/contributing/introduction-to-contributing/)
-      options:
-        - label: I agree to follow this project's Contribution Docs
-          required: false
