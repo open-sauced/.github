@@ -7,7 +7,7 @@ Some thoughts to help you contribute to this project
 
 ## Recommended Communication Style
 
-1. Always leave screenshots for visuals changes
+1. Always leave screenshots for visual changes
 1. Always leave a detailed description in the Pull Request. Leave nothing ambiguous for the reviewer.
 1. Always review your code first. Do this by leaving comments in your coding noting questions, or interesting things for the reviewer.
 1. Always communicate. Whether it is in the issue or the pull request, keeping the lines of communication helps everyone around you.
@@ -27,7 +27,7 @@ $ npm run build
 ```
 
 ## Testing
-For running the test suite, use the following command. Since the tests run in watch mode by default, some users may encounter errors about too many files being open. In this case, it may be beneficial to [install watchman](https://facebook.github.io/watchman/docs/install.html).
+For running the test suite, you can just use the following command. Since the tests run in watch mode by default, some users may encounter errors about too many files being open. In this case, it may be beneficial to [install watchman](https://facebook.github.io/watchman/docs/install.html).
 ```sh
 # the tests will run in watch mode by default
 $ npm run test
@@ -35,7 +35,7 @@ $ npm run test
 
 ## Pull Requests
 
-### _We actively welcome your pull requests, however linking your work to an existing issue is preferred._
+### _We actively welcome your pull requests, however, linking your work to an existing issue is preferred._
 
 1. Fork the repo and create your branch from `beta` or DEFAULT branch if different.
 1. Name your branch something that is descriptive to the work you are doing. i.e. adds-new-thing or fixes-mobile
@@ -51,7 +51,7 @@ $ npm run test
 *note for maintainers: All pull requests need a label to assist automation. See the [template](https://github.com/open-sauced/open-sauced/blob/HEAD/.github/release-drafter.yml) to guide which labels to use.*
 
 ### PR Validation
-Examples for valid PR titles:
+Examples of valid PR titles:
 
 - fix: Correct typo.
 - feat: Add support for Node 12.
@@ -62,15 +62,15 @@ _Note that since PR titles only have a single line, you have to use the ! syntax
 See [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) for more examples.
 
 ### Work in progress
-GitHub has support for draft pull requests, which will disable the merge button until the PR is marked as ready for merge.
+GitHub supports draft pull requests, which will disable the merge button until the PR is marked as ready for merge.
 
 ## Issues
 
 If you plan to contribute a change based on an open issue, please assign yourself by commenting on the following word `.take`. Issues that are not assigned are assumed open, and to avoid conflicts, please assign yourself before beginning work on any issues.
 
-If you would like to contribute to the project for the first time, please consider joining checking the [bug](https://github.com/open-sauced/open-sauced/issues?q=is%3Aissue+is%3Aopen+label%3A%22%F0%9F%90%9B+bug%22) or [good first issue](https://github.com/open-sauced/open-sauced/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) labels.
+If you would like to contribute to the project for the first time, please consider joining by checking the [bug](https://github.com/open-sauced/open-sauced/issues?q=is%3Aissue+is%3Aopen+label%3A%22%F0%9F%90%9B+bug%22) or [good first issue](https://github.com/open-sauced/open-sauced/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) labels.
 
-Also, all questions are welcomed.
+Also, all questions are welcome.
 
 ### Triage Team
 
@@ -81,7 +81,7 @@ The Triage team is inspired by [expressjs/express](https://github.com/expressjs/
 For those interested in getting involved in the project or just open source in general, please request an invite to the Triage Team in [this discussion.](https://github.com/open-sauced/open-sauced/discussions/638)
 
 ## Funding
-Open Sauced is a part of GitHub Sponsors. If you would like to contribute, please note the [sponsor page](https://github.com/sponsors/open-sauced) for details on how funds are distributed. If you have made any contributions to the projectd directly or indirectly, please consider adding your profile to the [funding.yml](https://github.com/open-sauced/open-sauced/blob/main/.github/funding.yml).
+Open Sauced is a part of GitHub Sponsors. If you would like to contribute, please note the [sponsor page](https://github.com/sponsors/open-sauced) for details on how funds are distributed. If you have made any contributions to the project directly or indirectly, please consider adding your profile to the [funding.yml](https://github.com/open-sauced/open-sauced/blob/main/.github/funding.yml).
 
 ## Community
 
